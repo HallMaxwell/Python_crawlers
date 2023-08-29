@@ -13,5 +13,5 @@ bilibili private message: HallMaxwell
 >>>>>>> b816912df2005387f711b7262b91d5c7a0882bb3
 ## [music.py](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/music.py)
 ~Crawl all paid music on Chinese musical websites.~ (defunct)
-## music.exe
+## [music.exe](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/disk/music.exe)
 ~Have been parcelled. Use directly.~ (defunct)
