@@ -6,5 +6,5 @@ bilibili private message: HallMaxwell
 ### to delete.
 ## [music.py](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/music.py)
 ~Crawl all paid music on Chinese musical websites.~ (defunct)
-## music.exe
+## [music.exe](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/disk/music.exe)
 ~Have been parcelled. Use directly.~ (defunct)
