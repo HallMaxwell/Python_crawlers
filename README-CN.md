@@ -6,5 +6,4 @@
 ### 删除。对于爬虫使用者和爬虫原作者所造成的损失，与本人无关。
 ## [music.py](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/music.py)
 ~爬取所有中国音乐网站上的付费音乐。~ (已失效)
-## [music.exe](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/disk/music.exe)
-~已打包，直接使用。~ (已失效)
+ 
