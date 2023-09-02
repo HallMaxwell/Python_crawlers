@@ -5,6 +5,7 @@ Network Python crawler source codes. <br> (Invalid code and Invalid EXE files wi
 Email: HallMaxwell@163.com <br> bilibili private message: HallMaxwell
 ### to delete. I will not be responsible for the damage caused by the users of the crawler and the original creator.
 ## [music.py](https://github.com/HallMaxwell/Python_crawlers/blob/main/crawlers/music.py)
-~Crawl all paid music on Chinese musical websites.~ (defunct)
+~Crawl all paid music on Chinese musical websites. Find release or click [here](https://github.com/HallMaxwell/Python_crawlers/releases/download/v1.0/music.exe) to download the packaged executable file.~ (defunct)
+
  
 
